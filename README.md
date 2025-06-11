@@ -1,0 +1,2 @@
+# QnA_bot_using_Gemma_and_Groq
+This project is a document-based Question Answering (QA) system built with Streamlit and powered by Groq's Gemma-2-9B-IT language model and Google Generative AI Embeddings. It enables users to upload a directory of PDF files and interact with the documents by asking natural language questions.
